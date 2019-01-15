@@ -1,0 +1,23 @@
+{
+  "id": "122e4c01-25c7-4365-8a41-039ba1cea78d",
+  "name": "Basic Extension",
+  "publisher": "Paul Sheehan",
+  "brief": "A basic extension",
+  "description": "This is a basic extension, developed for example purposes",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.2"
+}
